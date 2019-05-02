@@ -1,8 +1,10 @@
-# MEMORY GAME #
-Version 2.0
+# MEMORY GAME # 
+Version 2.0 
+
 A Memory Game played with cards.
 This is the Final-Version of the game.
 
+<img src="path/to/src/images">
 The game includes the following:
 
  -Game-Modes:

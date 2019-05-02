@@ -4,7 +4,7 @@ Version 2.0
 A Memory Game played with cards.
 This is the Final-Version of the game.
 
-<img src="path/to/src/images">
+<img src="src/images/screenshotexample.png">
 The game includes the following:
 
  -Game-Modes:

@@ -8,6 +8,7 @@ This is the Final-Version of the game.
 The game includes the following:
 
  -Game-Modes:
+ 
    Basic: Includes 2 copies of 12 different cards, which will be randomly placed on a grid of 4 rows and 6 columns. The player chooses successively and sees 2 cards. If they are the same, they pick them up, otherwise the cards are hidden.
    Double: Includes 2 copies of 24 different cards, which will be randomly placed on a grid of 6 rows and 8 columns. The player chooses successively and sees 2 cards. If they are the same, they pick them up, otherwise the cards are hidden
    Triple: Includes 3 copies of 12 different cards, which will be placed randomly on a grid of 6 rows and 6 columns. The player chooses successively and sees 3 cards. If they are the same, they pick them up, otherwise the cards are hidden.

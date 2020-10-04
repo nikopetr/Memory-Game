@@ -4,7 +4,7 @@ A Memory Game played with cards impleneted using Java.
 
 ## The game includes the following:
 
-### Game-Modes
+### Game-Modes:
 - Basic: Includes 2 copies of 12 different cards, which will be randomly placed on a grid of 4 rows and 6 columns. The player chooses successively and sees 2 cards. If they are the same, they pick them up, otherwise the cards are hidden.
 - Double: Includes 2 copies of 24 different cards, which will be randomly placed on a grid of 6 rows and 8 columns. The player chooses successively and sees 2 cards. If they are the same, they pick them up, otherwise the cards are hidden
 - Triple: Includes 3 copies of 12 different cards, which will be placed randomly on a grid of 6 rows and 6 columns. The player chooses successively and sees 3 cards. If they are the same, they pick them up, otherwise the cards are hidden.
@@ -12,11 +12,11 @@ A Memory Game played with cards impleneted using Java.
   
   *All modes can be played with or without Computer Bots with various difficulties *
   
- ### Basic Graphical interface with menus and images for the users to interact and play.
+ ### Basic Graphical interface with menus and images for the users to interact and play:
  
 <img src="src/images/screenshotexample.png">
 
-### Other features
+### Other features:
 - Able to save high-scores
 - Languages supported: English US, English UK, Greek
 - Tests for each Class (Using jUnit 4)

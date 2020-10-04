@@ -17,8 +17,8 @@ A Memory Game played with cards impleneted using Java.
 <img src="src/images/screenshotexample.png">
 
 ### Other features
-- Able to save high-scores.
-- Languages supported: English US, English UK, Greek.
-- Tests for each Class (Using jUnit 4).
+- Able to save high-scores
+- Languages supported: English US, English UK, Greek
+- Tests for each Class (Using jUnit 4)
 
 
